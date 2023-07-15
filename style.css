@@ -1,0 +1,28 @@
+h1{
+    font-size: 50px;
+    font-family:'Roboto', sans-serif;
+}
+
+.row{
+    margin-top: 15px;
+    text-align: center;
+
+}
+
+.button{
+    width: 62px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 11px;
+    cursor: pointer;
+}
+
+.input{
+    font-size: 23px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius:5px ;
+}
+
